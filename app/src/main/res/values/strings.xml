@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">LAST ATTEMPT</string>
+    <string name="description_ed">Description</string>
+    <string name="confirm_ed">Confirm</string>
+    <string name="send_ed">Send</string>
+    <string name="subject_ed">Subject</string>
+    <string name="engineering_department_ed">Engineering Department</string>
+    <string name="description">Description</string>
+    <string name="confirm">Confirm</string>
+    <string name="send">Send</string>
+    <string name="subject">Subject</string>
+    <string name="operations_and_maintenance_department">Operations And Maintenance Department</string>
+    <string name="confirm_faa">Confirm</string>
+    <string name="send_faa">Send</string>
+    <string name="description_faa">Description</string>
+    <string name="subject_faa">Subject</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="click_here_to_register">Click here to register</string>
+    <string name="login_btn">Login</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="register">Register</string>
+    <string name="register_btn">Register</string>
+    <string name="logout">Logout</string>
+    <string name="bmrcl_complaint">BMRCL Complaint</string>
+</resources>

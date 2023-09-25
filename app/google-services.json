@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123971025899",
+    "project_id": "last-attempt-c555d",
+    "storage_bucket": "last-attempt-c555d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123971025899:android:7e64d89c20fc12916677ae",
+        "android_client_info": {
+          "package_name": "com.example.lastattempt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxzVMzEeI8MTWV_Y8LVvgo-Gi846PUOLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
