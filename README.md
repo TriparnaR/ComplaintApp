@@ -9,3 +9,23 @@ The  Complaint App, developed using Android Studio, is your dedicated platform f
 The BMRCL Complaint App powered by Android Studio is your direct link to improving Bangalore's metro services. It simplifies the complaint submission and resolution process, ensuring that your concerns are promptly addressed, whether they pertain to daily operations, customer service, or infrastructure.
 
 Download the BMRCL Complaint App now and join us in making the Bangalore Metro an even better and more efficient mode of transit. Your voice matters, and together, we can enhance the metro experience for all commuters.        
+
+
+
+![opening](https://github.com/TriparnaR/ComplaintApp/assets/101574532/086efc34-6f0f-4057-97f3-1ca8258ae090)
+
+
+![Login](https://github.com/TriparnaR/ComplaintApp/assets/101574532/9e6c1b8a-f8a4-4b12-ba34-fb80c8ea604c)
+
+
+![Register](https://github.com/TriparnaR/ComplaintApp/assets/101574532/0f71bbf8-3684-4f64-9ce0-1cd0752e7b74)
+
+
+![Main Activity 2](https://github.com/TriparnaR/ComplaintApp/assets/101574532/10c6daf1-b643-44de-8da2-a5372ac667ab)
+
+
+
+![OAM Complaint screen](https://github.com/TriparnaR/ComplaintApp/assets/101574532/c464951c-d405-477a-84fc-eb7e845ea973)
+
+
+
