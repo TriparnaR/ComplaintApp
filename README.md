@@ -1,4 +1,4 @@
-# ComplaintApp
+# Complaint Management App
 The  Complaint App, developed using Android Studio, is your dedicated platform for addressing issues and concerns related to the Bangalore Metro Rail Corporation Limited (BMRCL) services. This is a Company-based app offers seamless access to file complaints across three different departments within the BMRCL ecosystem. Here's a brief overview of its key features:
         1) Department Selection: Upon launching the app, users can choose from three distinct departments:
               a. Operations: File complaints related to the daily operations of the Bangalore Metro, such as service disruptions, delays, cleanliness, and safety concerns.
